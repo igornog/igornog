@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Igor Nogueira</h1>
+<h1 align="center">Hey, I'm Igor Nogueira</h1>
 <h3 align="center">A passionate frontend developer from Latin America, living in Europe.</h3>
 
-- 🔭 I’m currently working on [IntellectEU](https://intellecteu.com/)
+- 🔭 I’m currently working in [IntellectEU](https://intellecteu.com/)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning SSR **NextJS**
 
 - 👯 I’m looking to collaborate on **cool startups**
 
