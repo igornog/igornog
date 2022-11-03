@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working in [IntellectEU](https://intellecteu.com/)
 
-- 🌱 I’m currently learning SSR **NextJS**
+- 🌱 I’m currently learning **NextJS**
 
 - 👯 I’m looking to collaborate on **cool startups**
 
-- 👨‍💻 All of my projects are available at [https://github.com/igornog](https://github.com/igornog)
+- 👨‍💻 All of my public projects are available at [https://github.com/igornog](https://github.com/igornog)
 
 - 💬 Ask me about **ReactJS**
 
