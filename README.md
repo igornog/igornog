@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Igor Nogueira</h1>
 <h3 align="center">A passionate frontend developer from Latin America, living in Europe.</h3>
 
-- 🔭 I’m currently working in [IntellectEU](https://intellecteu.com/)
+- 🔭 I’m currently working in [YJCollective](https://www.yjcollective.com/)
 
 - 🌱 I’m currently learning **NextJS**
 
