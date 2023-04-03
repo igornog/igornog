@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my public projects are available at [https://github.com/igornog](https://github.com/igornog)
 
-- 💬 Ask me about **ReactJS**
+- 💬 Ask me about **ReactJS**, **TypeScript** and **NextJS**
 
 - 📫 How to reach me **igorcmnog@fgmail.com**
 
