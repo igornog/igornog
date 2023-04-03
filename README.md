@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working in [YJCollective](https://www.yjcollective.com/)
 
-- 🌱 I’m currently learning **NextJS**
-
 - 👯 I’m looking to collaborate on **cool startups**
 
 - 👨‍💻 All of my public projects are available at [https://github.com/igornog](https://github.com/igornog)
