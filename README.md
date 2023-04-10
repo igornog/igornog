@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Igor Nogueira</h1>
-<h3 align="center">A passionate frontend developer from Latin America, living in Europe.</h3>
+<h3 align="center">A curious frontend developer from Latin America, woriking for clients around the world for +5y now.</h3>
 
 - 🔭 I’m currently working in [YJCollective](https://www.yjcollective.com/)
 
