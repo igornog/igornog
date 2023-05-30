@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **ReactJS**, **TypeScript** and **NextJS**
 
-- 📫 How to reach me **igorcmnog@fgmail.com**
+- 📫 How to reach me **igorcmnog@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/igor-nogueira-631284a2/](https://www.linkedin.com/in/igor-nogueira-631284a2/)
 
