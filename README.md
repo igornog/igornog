@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in [YJCollective](https://www.yjcollective.com/)
 
-- 👯 I’m looking to collaborate on **cool startups**
+- 👯 I’m looking to collaborate on **cool startups** or **international consultancies**
 
 - 👨‍💻 All of my public projects are available at [https://portfolio-igornog.vercel.app/](https://portfolio-igornog.vercel.app/)
 
