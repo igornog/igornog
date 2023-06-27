@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **cool startups**
 
-- 👨‍💻 All of my public projects are available at [https://github.com/igornog](https://github.com/igornog)
+- 👨‍💻 All of my public projects are available at [https://portfolio-igornog.vercel.app/](https://portfolio-igornog.vercel.app/)
 
 - 💬 Ask me about **ReactJS**, **TypeScript** and **NextJS**
 
