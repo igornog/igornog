@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Igor Nogueira</h1>
-<h3 align="center">A curious frontend developer working for clients around the world for over 5 years now.</h3>
+<h3 align="center">Frontend developer working for clients around the world for over 5 years now.</h3>
 
 - 🔭 I’m currently working in [YJCollective](https://www.yjcollective.com/)
 
