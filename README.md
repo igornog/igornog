@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my public projects are available here but I also have a few live projects at [https://portfolio-igornog.vercel.app/](https://portfolio-igornog.vercel.app/)
 
-- 💬 Ask me about **ReactJS**, **TypeScript** and **NextJS**
+- 💬 Ask me about **ReactJS**, **JavaScript** and **TypeScript**
 
 - 📫 How to reach me **igorcmnog@gmail.com**
 
