@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **ReactJS**, **JavaScript** and **TypeScript**
 
+- 🌱 I’m currently learning **NodeJS**
+
 - 📫 How to reach me **igorcmnog@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/igor-nogueira-631284a2/](https://www.linkedin.com/in/igor-nogueira-631284a2/)
