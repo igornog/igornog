@@ -1,17 +1,5 @@
 <h1 align="center">Hey, I'm Igor Nogueira</h1>
-<h3 align="center">Frontend developer working for startups around the world for over 5 years now.</h3>
-
-- 🔭 I’m currently working in [YJCollective](https://www.yjcollective.com/)
-
-- 👯 I’m looking to collaborate on **cool startups** or **international consultancies**
-
-- 👨‍💻 All of my public projects are available here but I also have a few live projects at [https://portfolio-igornog.vercel.app/](https://portfolio-igornog.vercel.app/)
-
-- 💬 Ask me about **ReactJS**, **JavaScript** and **TypeScript**
-
-- 🌱 I’m currently learning **NodeJS**
-
-- 📫 How to reach me **igorcmnog@gmail.com**
+<h3 align="center">Frontend developer working for startups around the world for over 6 years now.</h3>
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/igor-nogueira-631284a2/](https://www.linkedin.com/in/igor-nogueira-631284a2/)
 
